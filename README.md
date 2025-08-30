@@ -17,4 +17,4 @@ and I have experience with **DevOps & Cloud (Git, Docker, AWS)**.
 ---
 
 📫 **Connect with me:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)  
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/aman-singh-mern?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))  
