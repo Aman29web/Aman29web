@@ -9,7 +9,7 @@ and I have experience with **DevOps & Cloud (Git, Docker, AWS)**.
 ## Skills  
 - **Languages:** JavaScript (ES6+), Rust, SQL  
 - **Frontend:** React.js, Redux, Tailwind CSS, Bootstrap  
-- **Backend:** Node.js, Express.js, REST APIs, Auth (JWT, OAuth)  
+- **Backend:** Node.js, Express.js, REST APIs, Auth (JWT, OAuth),  ASP.NET Core
 - **Databases:** MongoDB, MySQL  
 - **DevOps & Cloud:** Git, Docker, AWS (EC2, S3), CI/CD  
 - **Tools:** VS Code, Postman, Google Colab  
